@@ -6,3 +6,6 @@ The Color Palette Changer App is built entirely with React, showcasing the power
 
 # How useState Works
 In this project, the useState hook is employed to create a state variable named color with an initial value of "aqua". The setColor function, also provided by the useState hook, is used to update the color state.
+
+# Check live project
+**https://bg-changer-fawn.vercel.app/**
